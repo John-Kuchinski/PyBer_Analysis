@@ -15,5 +15,5 @@ With these images above there are multiple conclusions that we can come to based
 2. Rural areas willl likely produce the least amount of total revenue, but will have the highest average fare due to the fact they will most likely be traveling further distances than Urban riders.
 3. Suburban areas are going to represent closer to your mid range, you will have some longer and shorter fares depending on each riders as they may have different destinations that could vary,
 
-#Summary
+## Summary
 Based off of the sample size above and data that was collected, I would make a few suggestions, first being in the urban area generated your most overall revenue but was the only location that you had more total drivers than total rides. This made your service more accessible. It was the opposite in rural locations. Your avg fare is higher in rural areas but overall usage is less, I would suggest trying to find a way to increase your driver total in the rural areas, this should increase your total number of rides which should also increase your overall revenue from these locations.
